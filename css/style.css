@@ -7,4 +7,24 @@
 
 #header-nav{min-height:80px;}
 
+.navbar-nav{
+	background-color:#3d3d3d;
+	text-align:center;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+	color:#fff;
+}
+
 .navbar-brand h1{margin-top:0;}
+
+.menu-box{
+	background-color:#222;
+	color:#fff;
+	margin:0 30px 20px 30px;
+	padding: 0 30px 20px 30px;
+}
+
+.menu-box h3{
+	padding-top:15px;
+}
